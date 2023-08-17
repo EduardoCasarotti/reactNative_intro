@@ -4,23 +4,6 @@ import { StyleSheet, View } from 'react-native';
 import Constants from 'expo-constants';
 import 'react-native-gesture-handler';
 
-import Exemplo_001 from './components/exemplos/exemplo_001';
-import Exemplo_002 from './components/exemplo_002';
-import Exemplo_003 from './components/exemplo_003';
-import Exemplo_004 from './components/exemplo_004'; 
-import Exemplo_005 from './components/exemplo_005'; 
-import Exemplo_006 from './components/exemplo_006'; 
-import Exemplo_007 from './components/exemplo_007'; 
-import Exemplo_008 from './components/exemplo_008';
-
-import Atividade_001 from './components/atividade_002/atividade_001'; 
-import Atividade_002 from './components/atividade_002'; 
-import Atividade_003 from './components/atividades/atividade_003'; 
-import Atividade_004 from './components/atividades/atividade_004'; 
-import Atividade_005 from './components/atividades/atividade_005'; 
-import Atividade_006 from './components/atividades/atividade_006'; 
-import Atividade_007 from './components/atividades/atividade_007'; 
-
 import Velha from './components/velha';
 
 const corApp = '#fff';
